@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Li Qiao</title>
-    <link>https://chenyu-kd.github.io/</link>
-      <atom:link href="https://chenyu-kd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chenyu-k.github.io/</link>
+      <atom:link href="https://chenyu-k.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Li Qiao</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chenyu-kd.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://chenyu-k.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Li Qiao</title>
-      <link>https://chenyu-kd.github.io/</link>
+      <link>https://chenyu-k.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://chenyu-kd.github.io/talk/example-talk/</link>
+      <link>https://chenyu-k.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/talk/example-talk/</guid>
+      <guid>https://chenyu-k.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>LDPC Level Prediction Towards Read Performance of High-Density Flash Memories</title>
-      <link>https://chenyu-kd.github.io/publication/paper48/</link>
+      <link>https://chenyu-k.github.io/publication/paper48/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper48/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper48/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -53,9 +53,9 @@
     
     <item>
       <title>Variational Nested Dropout</title>
-      <link>https://chenyu-kd.github.io/publication/paper47/</link>
+      <link>https://chenyu-k.github.io/publication/paper47/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper47/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper47/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -72,9 +72,9 @@
     
     <item>
       <title>MGC: Multiple-Gray-Code for 3D NAND Flash based High-Density SSDs</title>
-      <link>https://chenyu-kd.github.io/publication/paper42/</link>
+      <link>https://chenyu-k.github.io/publication/paper42/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper42/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper42/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -86,9 +86,9 @@
     
     <item>
       <title>Multi-Granularity Shadow Paging with NVM Write Optimization for Crash-Consistent Memory-Mapped I/O</title>
-      <link>https://chenyu-kd.github.io/publication/paper41/</link>
+      <link>https://chenyu-k.github.io/publication/paper41/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper41/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper41/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -100,9 +100,9 @@
     
     <item>
       <title>Bits-Ensemble: Toward Light-Weight Robust Deep Ensemble by Bits-Sharing</title>
-      <link>https://chenyu-kd.github.io/publication/paper49/</link>
+      <link>https://chenyu-k.github.io/publication/paper49/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper49/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper49/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -119,9 +119,9 @@
     
     <item>
       <title>Resolving the Reliability Issues of Open Blocks for 3-D NAND Flash: Observations and Strategies</title>
-      <link>https://chenyu-kd.github.io/publication/paper46/</link>
+      <link>https://chenyu-k.github.io/publication/paper46/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper46/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper46/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -138,9 +138,9 @@
     
     <item>
       <title>Stop unnecessary refreshing: extending 3D NAND flash lifetime with ORBER</title>
-      <link>https://chenyu-kd.github.io/publication/paper50/</link>
+      <link>https://chenyu-k.github.io/publication/paper50/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper50/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper50/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -157,9 +157,9 @@
     
     <item>
       <title> DWR: differential wearing for read performance optimization on high-density NAND flash memory</title>
-      <link>https://chenyu-kd.github.io/publication/paper45/</link>
+      <link>https://chenyu-k.github.io/publication/paper45/</link>
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper45/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper45/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -171,9 +171,9 @@
     
     <item>
       <title> Rm-ssd: In-storage computing for large-scale recommendation inference</title>
-      <link>https://chenyu-kd.github.io/publication/paper43/</link>
+      <link>https://chenyu-k.github.io/publication/paper43/</link>
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper43/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper43/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -185,9 +185,9 @@
     
     <item>
       <title>Work-in-Progress: Prediction-based Fine-Grained LDPC Reading to Enhance High-Density Flash Read Performance</title>
-      <link>https://chenyu-kd.github.io/publication/paper44/</link>
+      <link>https://chenyu-k.github.io/publication/paper44/</link>
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper44/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper44/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -199,9 +199,9 @@
     
     <item>
       <title>Online Rare Category Identification and Data Diversification for Edge Computing</title>
-      <link>https://chenyu-kd.github.io/publication/paper32/</link>
+      <link>https://chenyu-k.github.io/publication/paper32/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper32/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper32/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -218,9 +218,9 @@
     
     <item>
       <title> Bayesian Nested Neural Networks for Uncertainty Calibration and Adaptive Compression.</title>
-      <link>https://chenyu-kd.github.io/publication/paper13/</link>
+      <link>https://chenyu-k.github.io/publication/paper13/</link>
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper13/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper13/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -232,9 +232,9 @@
     
     <item>
       <title>How the common retention acceleration method of 3D NAND flash memory goes wrong?</title>
-      <link>https://chenyu-kd.github.io/publication/paper1/</link>
+      <link>https://chenyu-k.github.io/publication/paper1/</link>
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper1/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper1/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -246,9 +246,9 @@
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://chenyu-kd.github.io/post/getting-started/</link>
+      <link>https://chenyu-k.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/post/getting-started/</guid>
+      <guid>https://chenyu-k.github.io/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -326,9 +326,9 @@
     
     <item>
       <title> Accelerating Monte Carlo Bayesian Prediction via Approximating Predictive Uncertainty Over the Simplex</title>
-      <link>https://chenyu-kd.github.io/publication/paper33/</link>
+      <link>https://chenyu-k.github.io/publication/paper33/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper33/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper33/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -345,9 +345,9 @@
     
     <item>
       <title> Process Variation Aware Read Performance Improvement for LDPC-Based nand Flash Memory</title>
-      <link>https://chenyu-kd.github.io/publication/paper30/</link>
+      <link>https://chenyu-k.github.io/publication/paper30/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper30/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper30/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -364,9 +364,9 @@
     
     <item>
       <title>Aging Capacitor Supported Cache Management Scheme for Solid-State Drives</title>
-      <link>https://chenyu-kd.github.io/publication/paper36/</link>
+      <link>https://chenyu-k.github.io/publication/paper36/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper36/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper36/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -383,9 +383,9 @@
     
     <item>
       <title>Boosting User Experience via Foreground-Aware Cache Management in UFS Mobile Devices</title>
-      <link>https://chenyu-kd.github.io/publication/paper34/</link>
+      <link>https://chenyu-k.github.io/publication/paper34/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper34/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper34/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -402,9 +402,9 @@
     
     <item>
       <title>Exploiting Asymmetric Errors for LDPC Decoding Optimization on 3D NAND Flash Memory</title>
-      <link>https://chenyu-kd.github.io/publication/paper3/</link>
+      <link>https://chenyu-k.github.io/publication/paper3/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper3/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper3/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -421,9 +421,9 @@
     
     <item>
       <title>iTRIM: I/O-Aware TRIM for Improving User Experience on Mobile Devices</title>
-      <link>https://chenyu-kd.github.io/publication/paper35/</link>
+      <link>https://chenyu-k.github.io/publication/paper35/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper35/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper35/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -440,9 +440,9 @@
     
     <item>
       <title>Maximizing I/O Throughput and Minimizing Performance Variation via Reinforcement Learning Based I/O Merging for SSDs</title>
-      <link>https://chenyu-kd.github.io/publication/paper37/</link>
+      <link>https://chenyu-k.github.io/publication/paper37/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper37/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper37/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -459,9 +459,9 @@
     
     <item>
       <title>Shaving Retries with Sentinels for Fast Read over High-Density 3D Flash</title>
-      <link>https://chenyu-kd.github.io/publication/paper2/</link>
+      <link>https://chenyu-k.github.io/publication/paper2/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper2/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper2/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -478,9 +478,9 @@
     
     <item>
       <title> Access characteristic guided partition for read performance improvement on solid state drives</title>
-      <link>https://chenyu-kd.github.io/publication/paper14/</link>
+      <link>https://chenyu-k.github.io/publication/paper14/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper14/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper14/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -492,9 +492,9 @@
     
     <item>
       <title>Valid window: a new metric to measure the reliability of NAND flash memory</title>
-      <link>https://chenyu-kd.github.io/publication/paper15/</link>
+      <link>https://chenyu-k.github.io/publication/paper15/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper15/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper15/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -506,9 +506,9 @@
     
     <item>
       <title>Minimizing Retention Induced Refresh Through Exploiting Process Variation of Flash Memory</title>
-      <link>https://chenyu-kd.github.io/publication/paper38/</link>
+      <link>https://chenyu-k.github.io/publication/paper38/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper38/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper38/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -525,9 +525,9 @@
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://chenyu-kd.github.io/post/writing-technical-content/</link>
+      <link>https://chenyu-k.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/post/writing-technical-content/</guid>
+      <guid>https://chenyu-k.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -627,7 +627,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-378214569&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-324817659&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -637,7 +637,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-378214569&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-324817659&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -919,9 +919,9 @@ Crash --&gt; [*]
     
     <item>
       <title> Fully Nested Neural Network for Adaptive Compression and Quantization</title>
-      <link>https://chenyu-kd.github.io/publication/paper16/</link>
+      <link>https://chenyu-k.github.io/publication/paper16/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper16/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper16/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -933,9 +933,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Constructing Large, Durable and Fast SSD System via Reprogramming 3D TLC Flash Memory</title>
-      <link>https://chenyu-kd.github.io/publication/paper19/</link>
+      <link>https://chenyu-k.github.io/publication/paper19/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper19/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper19/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -947,9 +947,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Fair Down to the Device: A GC-Aware Fair Scheduler for SSD</title>
-      <link>https://chenyu-kd.github.io/publication/paper21/</link>
+      <link>https://chenyu-k.github.io/publication/paper21/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper21/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper21/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -961,9 +961,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Leveraging Approximate Data for Robust Flash Storage</title>
-      <link>https://chenyu-kd.github.io/publication/paper4/</link>
+      <link>https://chenyu-k.github.io/publication/paper4/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper4/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper4/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -975,9 +975,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Mismatched Memory Management of Android Smartphones</title>
-      <link>https://chenyu-kd.github.io/publication/paper18/</link>
+      <link>https://chenyu-k.github.io/publication/paper18/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper18/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper18/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -989,9 +989,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Online Rare Category Detection for Edge Computing</title>
-      <link>https://chenyu-kd.github.io/publication/paper17/</link>
+      <link>https://chenyu-k.github.io/publication/paper17/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper17/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper17/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1003,9 +1003,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Optimizing Tail Latency of LDPC based Flash Memory Storage Systems Via Smart Refresh</title>
-      <link>https://chenyu-kd.github.io/publication/paper20/</link>
+      <link>https://chenyu-k.github.io/publication/paper20/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper20/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper20/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1017,9 +1017,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Sentinel Cells Enabled Fast Read for NAND Flash</title>
-      <link>https://chenyu-kd.github.io/publication/paper5/</link>
+      <link>https://chenyu-k.github.io/publication/paper5/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper5/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper5/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1031,9 +1031,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://chenyu-kd.github.io/post/jupyter/</link>
+      <link>https://chenyu-k.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/post/jupyter/</guid>
+      <guid>https://chenyu-k.github.io/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -1090,9 +1090,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Slides</title>
-      <link>https://chenyu-kd.github.io/slides/example/</link>
+      <link>https://chenyu-k.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/slides/example/</guid>
+      <guid>https://chenyu-k.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -1215,9 +1215,9 @@ $$&lt;/p&gt;
     
     <item>
       <title> Access Characteristic Guided Read and Write Regulation on Flash Based Storage Systems</title>
-      <link>https://chenyu-kd.github.io/publication/paper31/</link>
+      <link>https://chenyu-k.github.io/publication/paper31/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper31/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper31/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -1234,9 +1234,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Exploiting Chip Idleness for Minimizing Garbage Collection - Induced Chip Access Conflict on SSDs</title>
-      <link>https://chenyu-kd.github.io/publication/paper40/</link>
+      <link>https://chenyu-k.github.io/publication/paper40/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper40/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper40/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -1253,9 +1253,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Write Energy Reduction for PCM via Pumping Efficiency Improvement</title>
-      <link>https://chenyu-kd.github.io/publication/paper39/</link>
+      <link>https://chenyu-k.github.io/publication/paper39/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper39/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper39/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -1272,9 +1272,9 @@ $$&lt;/p&gt;
     
     <item>
       <title> Maximizing I/O throughput and minimizing performance variation via reinforcement learning based I/O merging for SSDs: work-in-progress</title>
-      <link>https://chenyu-kd.github.io/publication/paper23/</link>
+      <link>https://chenyu-k.github.io/publication/paper23/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper23/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper23/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1286,9 +1286,9 @@ $$&lt;/p&gt;
     
     <item>
       <title> Revisiting wear leveling design on compression applied 3D NAND flash memory: work-in-progress</title>
-      <link>https://chenyu-kd.github.io/publication/paper24/</link>
+      <link>https://chenyu-k.github.io/publication/paper24/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper24/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper24/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1300,9 +1300,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An Efficient Cache Management Scheme for Capacitor Equipped Solid State Drives</title>
-      <link>https://chenyu-kd.github.io/publication/paper26/</link>
+      <link>https://chenyu-k.github.io/publication/paper26/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper26/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper26/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1314,9 +1314,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Energy, latency, and lifetime improvements in MLC NVM with enhanced WOM code</title>
-      <link>https://chenyu-kd.github.io/publication/paper22/</link>
+      <link>https://chenyu-k.github.io/publication/paper22/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper22/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper22/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1328,9 +1328,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Loss is Gain: Shortening Data for Lifetime Improvement on Low-Cost ECC Enabled Consumer-Level Flash Memory</title>
-      <link>https://chenyu-kd.github.io/publication/paper25/</link>
+      <link>https://chenyu-k.github.io/publication/paper25/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper25/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper25/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1342,9 +1342,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Selective Compression Scheme for Read Performance Improvement on Flash Devices</title>
-      <link>https://chenyu-kd.github.io/publication/paper6/</link>
+      <link>https://chenyu-k.github.io/publication/paper6/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper6/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper6/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1356,9 +1356,9 @@ $$&lt;/p&gt;
     
     <item>
       <title> Exploiting Process Variation for Read Performance Improvement on LDPC Based Flash Memory Storage Systems</title>
-      <link>https://chenyu-kd.github.io/publication/paper9/</link>
+      <link>https://chenyu-k.github.io/publication/paper9/</link>
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper9/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper9/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1370,9 +1370,9 @@ $$&lt;/p&gt;
     
     <item>
       <title> Improving LDPC performance via asymmetric sensing level placement on flash memory</title>
-      <link>https://chenyu-kd.github.io/publication/paper7/</link>
+      <link>https://chenyu-k.github.io/publication/paper7/</link>
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper7/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper7/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1384,9 +1384,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>A PV aware data placement scheme for read performance improvement on LDPC based flash memory: work-in-progress</title>
-      <link>https://chenyu-kd.github.io/publication/paper8/</link>
+      <link>https://chenyu-k.github.io/publication/paper8/</link>
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper8/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper8/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1398,9 +1398,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Improving read performance via selective Vpass reduction on high density 3D NAND flash memory</title>
-      <link>https://chenyu-kd.github.io/publication/paper10/</link>
+      <link>https://chenyu-k.github.io/publication/paper10/</link>
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper10/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper10/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1412,9 +1412,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Laldpc: Latency-aware LDPC for Read Performance Improvement of Solid State Drives</title>
-      <link>https://chenyu-kd.github.io/publication/paper28/</link>
+      <link>https://chenyu-k.github.io/publication/paper28/</link>
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper28/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper28/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1426,9 +1426,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Reducing LDPC Soft Sensing Latency by Lightweight Data Refresh for Flash Read Performance Improvement</title>
-      <link>https://chenyu-kd.github.io/publication/paper27/</link>
+      <link>https://chenyu-k.github.io/publication/paper27/</link>
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper27/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper27/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1440,9 +1440,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Example Project</title>
-      <link>https://chenyu-kd.github.io/project/example/</link>
+      <link>https://chenyu-k.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/project/example/</guid>
+      <guid>https://chenyu-k.github.io/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -1453,17 +1453,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>External Project</title>
-      <link>https://chenyu-kd.github.io/project/external-project/</link>
+      <link>https://chenyu-k.github.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/project/external-project/</guid>
+      <guid>https://chenyu-k.github.io/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Access Characteristic Guided Read and Write Cost Regulation for Performance Improvement on Flash Memory</title>
-      <link>https://chenyu-kd.github.io/publication/paper11/</link>
+      <link>https://chenyu-k.github.io/publication/paper11/</link>
       <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper11/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper11/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1475,9 +1475,9 @@ $$&lt;/p&gt;
     
     <item>
       <title> An Empirical Study of File-System Fragmentation in Mobile Storage Systems</title>
-      <link>https://chenyu-kd.github.io/publication/paper29/</link>
+      <link>https://chenyu-k.github.io/publication/paper29/</link>
       <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper29/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper29/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1489,9 +1489,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Maximizing IO performance via conflict reduction for flash memory storage systems</title>
-      <link>https://chenyu-kd.github.io/publication/paper12/</link>
+      <link>https://chenyu-k.github.io/publication/paper12/</link>
       <pubDate>Tue, 07 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper12/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper12/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -1503,9 +1503,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://chenyu-kd.github.io/admin/config.yml</link>
+      <link>https://chenyu-k.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/admin/config.yml</guid>
+      <guid>https://chenyu-k.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

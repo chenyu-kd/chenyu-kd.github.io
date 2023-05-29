@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Li Qiao</title>
-    <link>https://chenyu-kd.github.io/publication-type/2/</link>
-      <atom:link href="https://chenyu-kd.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chenyu-k.github.io/publication-type/2/</link>
+      <atom:link href="https://chenyu-k.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chenyu-kd.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://chenyu-k.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://chenyu-kd.github.io/publication-type/2/</link>
+      <link>https://chenyu-k.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>LDPC Level Prediction Towards Read Performance of High-Density Flash Memories</title>
-      <link>https://chenyu-kd.github.io/publication/paper48/</link>
+      <link>https://chenyu-k.github.io/publication/paper48/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper48/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper48/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -33,9 +33,9 @@
     
     <item>
       <title>Variational Nested Dropout</title>
-      <link>https://chenyu-kd.github.io/publication/paper47/</link>
+      <link>https://chenyu-k.github.io/publication/paper47/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper47/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper47/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -52,9 +52,9 @@
     
     <item>
       <title>Bits-Ensemble: Toward Light-Weight Robust Deep Ensemble by Bits-Sharing</title>
-      <link>https://chenyu-kd.github.io/publication/paper49/</link>
+      <link>https://chenyu-k.github.io/publication/paper49/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper49/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper49/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -71,9 +71,9 @@
     
     <item>
       <title>Resolving the Reliability Issues of Open Blocks for 3-D NAND Flash: Observations and Strategies</title>
-      <link>https://chenyu-kd.github.io/publication/paper46/</link>
+      <link>https://chenyu-k.github.io/publication/paper46/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper46/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper46/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -90,9 +90,9 @@
     
     <item>
       <title>Stop unnecessary refreshing: extending 3D NAND flash lifetime with ORBER</title>
-      <link>https://chenyu-kd.github.io/publication/paper50/</link>
+      <link>https://chenyu-k.github.io/publication/paper50/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper50/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper50/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -109,9 +109,9 @@
     
     <item>
       <title>Online Rare Category Identification and Data Diversification for Edge Computing</title>
-      <link>https://chenyu-kd.github.io/publication/paper32/</link>
+      <link>https://chenyu-k.github.io/publication/paper32/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper32/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper32/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -128,9 +128,9 @@
     
     <item>
       <title> Accelerating Monte Carlo Bayesian Prediction via Approximating Predictive Uncertainty Over the Simplex</title>
-      <link>https://chenyu-kd.github.io/publication/paper33/</link>
+      <link>https://chenyu-k.github.io/publication/paper33/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper33/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper33/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -147,9 +147,9 @@
     
     <item>
       <title> Process Variation Aware Read Performance Improvement for LDPC-Based nand Flash Memory</title>
-      <link>https://chenyu-kd.github.io/publication/paper30/</link>
+      <link>https://chenyu-k.github.io/publication/paper30/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper30/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper30/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -166,9 +166,9 @@
     
     <item>
       <title>Aging Capacitor Supported Cache Management Scheme for Solid-State Drives</title>
-      <link>https://chenyu-kd.github.io/publication/paper36/</link>
+      <link>https://chenyu-k.github.io/publication/paper36/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper36/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper36/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -185,9 +185,9 @@
     
     <item>
       <title>Boosting User Experience via Foreground-Aware Cache Management in UFS Mobile Devices</title>
-      <link>https://chenyu-kd.github.io/publication/paper34/</link>
+      <link>https://chenyu-k.github.io/publication/paper34/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper34/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper34/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -204,9 +204,9 @@
     
     <item>
       <title>Exploiting Asymmetric Errors for LDPC Decoding Optimization on 3D NAND Flash Memory</title>
-      <link>https://chenyu-kd.github.io/publication/paper3/</link>
+      <link>https://chenyu-k.github.io/publication/paper3/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper3/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper3/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -223,9 +223,9 @@
     
     <item>
       <title>iTRIM: I/O-Aware TRIM for Improving User Experience on Mobile Devices</title>
-      <link>https://chenyu-kd.github.io/publication/paper35/</link>
+      <link>https://chenyu-k.github.io/publication/paper35/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper35/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper35/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -242,9 +242,9 @@
     
     <item>
       <title>Maximizing I/O Throughput and Minimizing Performance Variation via Reinforcement Learning Based I/O Merging for SSDs</title>
-      <link>https://chenyu-kd.github.io/publication/paper37/</link>
+      <link>https://chenyu-k.github.io/publication/paper37/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper37/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper37/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -261,9 +261,9 @@
     
     <item>
       <title>Minimizing Retention Induced Refresh Through Exploiting Process Variation of Flash Memory</title>
-      <link>https://chenyu-kd.github.io/publication/paper38/</link>
+      <link>https://chenyu-k.github.io/publication/paper38/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper38/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper38/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -280,9 +280,9 @@
     
     <item>
       <title> Access Characteristic Guided Read and Write Regulation on Flash Based Storage Systems</title>
-      <link>https://chenyu-kd.github.io/publication/paper31/</link>
+      <link>https://chenyu-k.github.io/publication/paper31/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper31/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper31/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -299,9 +299,9 @@
     
     <item>
       <title>Exploiting Chip Idleness for Minimizing Garbage Collection - Induced Chip Access Conflict on SSDs</title>
-      <link>https://chenyu-kd.github.io/publication/paper40/</link>
+      <link>https://chenyu-k.github.io/publication/paper40/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper40/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper40/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -318,9 +318,9 @@
     
     <item>
       <title>Write Energy Reduction for PCM via Pumping Efficiency Improvement</title>
-      <link>https://chenyu-kd.github.io/publication/paper39/</link>
+      <link>https://chenyu-k.github.io/publication/paper39/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://chenyu-kd.github.io/publication/paper39/</guid>
+      <guid>https://chenyu-k.github.io/publication/paper39/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
